@@ -1,0 +1,14 @@
+{
+  "title": "Select Language",
+  "value": [
+    {"name": "English", "shortName": "en", "direction": "ltr"},
+    {"name": "Bengali", "shortName": "bn", "direction": "ltr"},
+    {"name": "Français", "shortName": "fr", "direction": "ltr"},
+    {"name": "Chinese", "shortName": "zh" ,"direction": "ltr"},
+    {"name": "Arabic", "shortName": "ar", "direction": "rtl"},
+    {"name": "Bulgarian", "shortName": "bg", "direction": "ltr"},
+    {"name": "Catalan", "shortName": "ca", "direction": "ltr"},
+    {"name": "Estonian", "shortName": "et", "direction": "ltr"},
+    {"name": "Dutch", "shortName": "nl", "direction": "ltr"}
+  ]
+}

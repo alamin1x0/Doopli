@@ -1,0 +1,1 @@
+export const botImage = "https://staging.artifism.techvill.net/public/uploads/20230709/a419c745ee5cb1e9ac762f826b4c20a2.png";
